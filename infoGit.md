@@ -21,3 +21,5 @@
 [Рыжий кот](https://i.pinimg.com/originals/68/ce/12/68ce1225837b00b1d8ea715ed3b0ebab.jpg)
 
 ## Основные команды Git 2-го семинара
+
+**git_branch** <branch_name> - создать новую ветку 
