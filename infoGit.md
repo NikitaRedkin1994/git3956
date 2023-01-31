@@ -17,3 +17,5 @@
 > **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
 
 > ![Кот](https://cs6.pikabu.ru/post_img/big/2017/10/10/5/1507620017120447095.jpg)
+
+[Рыжий кот](https://i.pinimg.com/originals/68/ce/12/68ce1225837b00b1d8ea715ed3b0ebab.jpg)
